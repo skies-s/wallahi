@@ -28,7 +28,7 @@
 ![mass ping lol](https://user-images.githubusercontent.com/71920969/94822656-cb277480-03fa-11eb-97ee-44562785397f.gif)
 
 ### Help:
-![help](https://media.discordapp.net/attachments/782211616350404611/800773328058712104/unknown.png?width=576&height=610)
+![help](https://cdn.discordapp.com/attachments/860817491114459136/865176499911655444/unknown.png)
 
 
 # Requirements Before Set-up:
