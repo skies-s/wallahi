@@ -1,9 +1,8 @@
-# wallahi
-# Presser: Server Nuker
+# Presser: 7teen Server Nuker
 
 | Presser | 
 | ------------- | 
-| ![Presser](https://cdn.discordapp.com/attachments/860817491114459136/865178522783842304/unknown.png) |
+| ![Presser](https://media.discordapp.net/attachments/782211616350404611/800697767659962368/unknown.png) |
 
 ![](https://img.shields.io/github/watchers/17teen/Discord-Presser-Server-Nuker?style=social) ![](https://img.shields.io/github/stars/17teen/Discord-Presser-Server-Nuker?style=social) ![](https://img.shields.io/github/forks/17teen/Discord-Presser-Server-Nuker?style=social)
 
@@ -58,7 +57,7 @@
 ### Extra:
 * `DisableEveryone` | Default set to `true`, add your user ID | Makes sure no one else can use the tool. Set to `false` if you wish.  
 
-> ![disable](https://cdn.discordapp.com/attachments/860817491114459136/865177085013786654/unknown.png)
+> ![disable](https://media.discordapp.net/attachments/782211616350404611/800770126098071592/unknown.png)
 
 ## Start-up:
 
@@ -70,3 +69,10 @@ This is tool was made for educational purposes and proof of concepts. I'm not ac
 
 ## Tip
 Also I'd recommend only mass pinging till the server reaches to 3k pings. Any more than that will result in the hoster of the tool discord to lag or be rate limited for 30 mins - 2hrs ;)
+
+## Contact Me
+
+﹒[Discord](https://discord.com/users/709827684888215582)
+﹒[Discord Server](https://discord.gg/4nSYqZ8KAA)
+﹒[Telegram](https://t.me/clairvoyant7teen)
+﹒[Steam](https://steamcommunity.com/id/seven777teen/)
