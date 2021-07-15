@@ -58,7 +58,7 @@
 ### Extra:
 * `DisableEveryone` | Default set to `true`, add your user ID | Makes sure no one else can use the tool. Set to `false` if you wish.  
 
-> ![disable](https://media.discordapp.net/attachments/782211616350404611/800770126098071592/unknown.png)
+> ![disable](https://cdn.discordapp.com/attachments/860817491114459136/865177085013786654/unknown.png)
 
 ## Start-up:
 
